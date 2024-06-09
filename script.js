@@ -76,7 +76,7 @@ const quizData = [
         a: "Sim, elas começaram com a internet",
         b: "Não, elas existem desde que as notícias começaram a ser publicadas",
         c: "Sim, elas começaram com as redes sociais",
-        d: "Não, elas sempre existiram, mas se tornaram mais proeminentes com a internet",
+        d: "Não, elas sempre existiram, mas se destacaram na internet",
         correct: "d",
     },
 ];
